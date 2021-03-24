@@ -12,8 +12,6 @@ sites:
     url: $AP_2
   - name: APAJ Website
     url: $AP_1
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
   - name: TCP ping
     url: 1.1.1.1
 
