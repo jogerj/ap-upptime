@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2117,
+    "time": 2108,
     "timeDay": 4302,
     "timeWeek": 3980,
     "timeMonth": 2604,
-    "timeYear": 2117,
+    "timeYear": 2108,
     "dailyMinutesDown": {}
   },
   {
@@ -22,7 +22,7 @@
     "url": "$MAIL_ADMIN_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
