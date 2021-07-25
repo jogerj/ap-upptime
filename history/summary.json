@@ -13,7 +13,7 @@
     "time": 2165,
     "timeDay": 1421,
     "timeWeek": 2500,
-    "timeMonth": 2308,
+    "timeMonth": 2217,
     "timeYear": 2165,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1778,
     "timeDay": 1616,
     "timeWeek": 1666,
-    "timeMonth": 1927,
+    "timeMonth": 1848,
     "timeYear": 1778,
     "dailyMinutesDown": {}
   },
@@ -40,7 +40,7 @@
     "url": "$AP_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "apaj-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 7737,
     "timeDay": 4943,
     "timeWeek": 8417,
-    "timeMonth": 7924,
+    "timeMonth": 7664,
     "timeYear": 7737,
     "dailyMinutesDown": {}
   },
