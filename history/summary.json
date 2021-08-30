@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2384,
     "timeDay": 1681,
-    "timeWeek": 2079,
+    "timeWeek": 1850,
     "timeMonth": 3312,
     "timeYear": 2384,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 2044,
     "timeDay": 1614,
-    "timeWeek": 2001,
+    "timeWeek": 1718,
     "timeMonth": 3143,
     "timeYear": 2044,
     "dailyMinutesDown": {}
@@ -40,7 +40,7 @@
     "url": "$AP_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "apaj-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 7768,
     "timeDay": 8273,
     "timeWeek": 7584,
-    "timeMonth": 7759,
+    "timeMonth": 7880,
     "timeYear": 7768,
     "dailyMinutesDown": {}
   },
