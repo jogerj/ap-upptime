@@ -40,7 +40,7 @@
     "url": "$AP_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "apaj-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 7757,
     "timeDay": 6379,
     "timeWeek": 7216,
-    "timeMonth": 7562,
+    "timeMonth": 7701,
     "timeYear": 7757,
     "dailyMinutesDown": {}
   },
