@@ -22,7 +22,7 @@
     "url": "$MAIL_ADMIN_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
